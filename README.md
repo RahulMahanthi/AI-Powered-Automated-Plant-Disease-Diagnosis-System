@@ -1,4 +1,4 @@
-# 🌱 Plant Leaf Disease Detection 🌿
+# 🌱 AI-Powered-Automated-Plant-Disease-Diagnosis-System 🌿
 
 This project utilizes a deep learning model to detect plant leaf diseases based on an uploaded image. The model classifies the plant leaf image into different disease categories and provides detailed care instructions for each predicted disease.
 
